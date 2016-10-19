@@ -1,6 +1,6 @@
 // This program prints a line from that song you know
-// Author: <Your name here>
-// Date: <The date here>
+// Author: Nikki Lang
+// Date: 10/19/16
 
 import javax.swing.*;
 public class TwelveDays
@@ -9,8 +9,6 @@ public class TwelveDays
    {
       int choice;
       String entry;
-      double total = 0;
-      double price;
 	  String suffix;
 	  String thing;
 
